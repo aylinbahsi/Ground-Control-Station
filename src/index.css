@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.leaflet-container {
+  background-color: #020617 !important; /* Slate-950 rengiyle harita arka planını eşitledik */
+}
